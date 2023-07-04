@@ -134,7 +134,7 @@ Use the per_school_summary DataFrame from the previous step to create a new Data
 
 This new DataFrame should show school performance based on the "School Type".
 
-Resources
+Resources: 
 Class Office Hours
 Employer-provided Skillsoft course: Python - Pandas
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
